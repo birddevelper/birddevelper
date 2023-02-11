@@ -1,12 +1,6 @@
-## Welcome to my Github page
+## Welcome to my Github profile
 
-
-<!--
-**birddevelper/birddevelper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+I'm a software developer, I started programming at the age of 16 with QBasic. Now, I am an Experienced Fullstack Developer working in information technology and services industry. I'm Interested in making life easier by creating utility tools. You can check out my website m-shaeri.ir for my blog and more.
 
 
 ## Some of my Github Stats
