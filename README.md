@@ -23,7 +23,7 @@ I’m a software developer with a focus on web development, software architectur
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=birddevelper&show_icons=true&theme=dark&locale=en&q" alt="birddevelper" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=birddevelper&show_icons=true&theme=dark&locale=en&x" alt="birddevelper" />
 </p>
 
 
