@@ -1,6 +1,5 @@
 # Hi 👋
 
-
 ## About Me
 
 I’m a software developer with a focus on web development, software architecture and database optimization. 
