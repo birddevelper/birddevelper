@@ -1,6 +1,5 @@
 # Hi 👋
 
-[![My Website](https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge)](https://mshaeri.com)
 
 ## About Me
 
