@@ -12,7 +12,7 @@ I’m a software developer with a focus on web development, software architectur
 
 | **Languages** | **Frameworks** |
 |---------------|----------------|
-| Python        | Django, Flask, FastAPI |
+| Python        | Django, FastAPI |
 | Java           | Spring        |
 | Go             | Fiber        |
 
